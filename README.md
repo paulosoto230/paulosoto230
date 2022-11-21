@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Paulo soto</h1>
-<h3 align="center">Soy un back end apasionado por el desarrollo</h3>
+<h3 align="center">Soy un back end apasionado por el desarrollo web</h3>
 
 - 💬 Ask me about **HTML,CSS,node.js,javaScript,React.js,Java**
 
